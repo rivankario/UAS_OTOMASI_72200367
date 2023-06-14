@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pendataan Petani</name>
+   <tag></tag>
+   <elementGuidId>c61d7876-d5f2-46d4-9f4f-141c1716db01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu']/li/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4c8fbe21-55a9-4654-9e57-16f754f4a6da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Petani.php</value>
+      <webElementGuid>1491cbdb-5f61-4626-aba8-f94cc4790585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendataan Petani</value>
+      <webElementGuid>b4224e8b-a3e7-4655-a493-c60b730a9b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/li[1]/ul[@class=&quot;nav-pills nav-stacked&quot;]/li[2]/a[1]</value>
+      <webElementGuid>3015c207-2412-42e8-b3d6-39e99ac27edf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu']/li/ul/li[2]/a</value>
+      <webElementGuid>f1250b52-06fb-45c3-b596-db2a8af98fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pendataan Petani')]</value>
+      <webElementGuid>a66036c2-fece-4536-a0fa-4a8bf54da04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendataan Wilayah'])[1]/following::a[1]</value>
+      <webElementGuid>d6f4b632-f0bc-4acd-aeac-e6ace1f5cd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pangkalan Data'])[1]/following::a[2]</value>
+      <webElementGuid>487c7b34-303d-43e8-9766-ee47fb7ff0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendataan Kelompok Tani'])[1]/preceding::a[1]</value>
+      <webElementGuid>e1bf5b7d-327e-4dd7-9875-61b03cfe9d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendataan Struktur Organisasi'])[1]/preceding::a[2]</value>
+      <webElementGuid>0b59cca3-50f2-442b-8e05-a21b81c8d12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pendataan Petani']/parent::*</value>
+      <webElementGuid>7588581d-85e7-4df2-b11f-7bfdb4106a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Petani.php')]</value>
+      <webElementGuid>065b44a7-4999-4210-bd3d-a54c72c1fb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/a</value>
+      <webElementGuid>844901d2-b84c-42d7-8cde-aa559185aa29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Petani.php' and (text() = 'Pendataan Petani' or . = 'Pendataan Petani')]</value>
+      <webElementGuid>8a73d6da-7b98-482e-a8f7-565120025755</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
